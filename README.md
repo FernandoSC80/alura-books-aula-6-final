@@ -22,3 +22,14 @@ Projeto em desenvolvimento apra disciplina Formação Desenvolvedor Front-End, p
 # 🛠️ Abrir e rodar o projeto
 
 ** https://fernandosc80.github.io/alura-books-aula-6-final/ **
+
+# Técnicas e tecnologias utilizadas
+
+* HTML5
+* CSS3
+* Responsividade
+* Mobile-First
+
+# Autores
+
+<img src="![foto](https://github.com/user-attachments/assets/3e53327b-3d36-4c2e-a54b-95f9a5dccbb7)" alt="Minha foto de apresentação">
