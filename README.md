@@ -1,17 +1,3 @@
-Descrição do seu projeto;
-Funcionalidades;
-Como os usuários podem utilizá-lo;
-Onde os usuários podem encontrar ajuda sobre seu projeto;
-Autores do projeto.
+![Logo AluraBooks](https://github.com/user-attachments/assets/1f1d9b62-5631-4033-bb00-ae2b7e9b61ec)
 
-Título e Imagem de capa;
-Badges;
-Índice;
-Descrição do Projeto;
-Status do Projeto;
-Funcionalidades e Demonstração da Aplicação;
-Acesso ao Projeto;
-Tecnologias utilizadas;
-Pessoas Contribuidoras;
-Pessoas Desenvolvedoras do Projeto;
-Licença.
+<h1 align="center">Porjeto AluraBooks</h1>
