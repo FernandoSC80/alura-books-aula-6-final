@@ -1,4 +1,5 @@
-![Logo AluraBooks](https://github.com/user-attachments/assets/1f1d9b62-5631-4033-bb00-ae2b7e9b61ec)
+
+![Logo AluraBooks](https://github.com/user-attachments/assets/64879854-b90f-457e-b74d-5f242238c4cc)
 
 <h1 align="center">Porjeto AluraBooks</h1>
 
