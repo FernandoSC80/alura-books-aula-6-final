@@ -32,4 +32,5 @@ Projeto em desenvolvimento apra disciplina Formação Desenvolvedor Front-End, p
 
 # Autores
 
+Fernando Serem
 <img src="![foto](https://github.com/user-attachments/assets/3e53327b-3d36-4c2e-a54b-95f9a5dccbb7)" alt="Minha foto de apresentação">
